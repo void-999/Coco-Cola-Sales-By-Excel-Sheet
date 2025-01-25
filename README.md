@@ -15,7 +15,6 @@ Total profit earned after operational costs: $47,22,497.
 
       Features
 - Interactive Filters:
-
 Allows users to filter data by:
 Regions: Midwest, Northeast, South, Southeast, West.
 Years: 2022 and 2023.
